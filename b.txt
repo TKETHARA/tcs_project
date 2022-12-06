@@ -1,2 +1,3 @@
-It is a b.txt file
+It is a b.txt file with updated changes
 tcs_project 
+new
